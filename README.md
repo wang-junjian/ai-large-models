@@ -1,2 +1,1 @@
-# ai-large-models
-AI Large Models
+# AI Large Models
