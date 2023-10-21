@@ -162,3 +162,6 @@ cython_debug/
 .DS_Store
 tmp/
 storage/
+models/
+angui/
+test/
